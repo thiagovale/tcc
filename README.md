@@ -28,7 +28,7 @@ A análise comparativa revelou dados quantitativos cruciais para a tomada de dec
 
 O trabalho completo, contendo a metodologia detalhada, códigos e análise aprofundada, está disponível abaixo:
 
-[**📄 Ler TCC Completo (PDF)**](./tcc-thiago-vale.pdf)
+[**📄 Ler TCC Completo (PDF)**](./tcc_thiago.pdf)
 
 ---
 
